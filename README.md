@@ -116,9 +116,9 @@ The California Housing Dataset is a widely used dataset in machine learning and 
 
 All the links, blogs, videos, papers you referred to/took inspiration from for building this project. 
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Linear Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme](https://github.com/tejash6895/California-Housing-Insights/raw/main/predict.png))
+ - [California Housing Dataset in Sklearn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
 
 ## Contact
