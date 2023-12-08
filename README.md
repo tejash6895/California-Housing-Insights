@@ -123,7 +123,7 @@ All the links, blogs, videos, papers you referred to/took inspiration from for b
 
 ## Contact
 
-If you have any feedback/are interested in collaborating, please reach out to me at fake@fake.com
+If you have any feedback/are interested in collaborating, please reach out to me at https://zenai2.godaddysites.com/
 
 
 ## License
