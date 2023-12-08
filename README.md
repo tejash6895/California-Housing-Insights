@@ -35,6 +35,7 @@ It can be downloaded/loaded using the sklearn.datasets.fetch_california_housing 
 
 ## Evaluation and Results
 
+![Alt Text](https://github.com/tejash6895/California-Housing-Insights/raw/main/predict.png)
 
 The significant error in your model, based on the R-squared and MSE values, indicates that the model only moderately predicts median income based on house age. 
 
@@ -87,6 +88,7 @@ Here's how it works in simple terms:
 
 Model Structure: The linear regression model can be represented by the equation of a straight line:
 
+![Alt Text](https://github.com/tejash6895/California-Housing-Insights/raw/main/linear_regression_fom.JPG)
 
   are the coefficients that represent the weights for each independent variable.
 �
